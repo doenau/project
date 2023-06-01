@@ -1,10 +1,8 @@
 root@6d4651b6b6c1:/home/workspace/ImageClassifier# python predict.py --img_file=flowers/test/5/image_05159.jpg --cpt=checkpoint.pth --class_dict=cat_to_name.json --gpu
-Downloading: "https://download.pytorch.org/models/resnet50-19c8e357.pth" to /root/.torch/models/resnet50-19c8e357.pth
-100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 102502400/102502400 [00:00<00:00, 106023913.32it/s]
 Loading Checkpoint
 Running Prediction
 Processing Image
-tensor([[ 339.4957,  143.3806,  106.9825,   87.6239,   81.1111]], device='cuda:0')
-tensor([[ 985,  200,  562,  538,  879]], device='cuda:0')
+tensor([[ 305.3182,  129.6764,  116.6278,   79.9707,   75.2688]], device='cuda:0')
+tensor([[ 985,  200,  562,  538,  186]], device='cuda:0')
 QXcbConnection: Could not connect to display :1
 Aborted (core dumped)
