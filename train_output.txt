@@ -1,1 +1,50 @@
-
+root@6d4651b6b6c1:/home/workspace/ImageClassifier# python train.py --epochs=2 --gpu
+Loading Data
+Will create classifier
+Will Train the model
+Epoch 1/2.. Train Loss 0.228.. 
+Epoch 1/2.. Train Loss 0.214.. 
+Epoch 1/2.. Train Loss 0.211.. 
+Epoch 1/2.. Train Loss 0.206.. 
+Epoch 1/2.. Train Loss 0.199.. 
+Epoch 1/2.. Train Loss 0.188.. 
+Epoch 1/2.. Train Loss 0.182.. 
+Epoch 1/2.. Train Loss 0.179.. 
+Epoch 1/2.. Train Loss 0.165.. 
+Epoch 1/2.. Train Loss 0.158.. 
+Epoch 1/2.. Train Loss 0.147.. 
+Epoch 1/2.. Train Loss 0.145.. 
+Epoch 1/2.. Train Loss 0.137.. 
+Epoch 1/2.. Train Loss 0.130.. 
+Epoch 1/2.. Train Loss 0.125.. 
+Epoch 1/2.. Train Loss 0.125.. 
+Epoch 1/2.. Train Loss 0.116.. 
+Epoch 1/2.. Train Loss 0.110.. 
+Epoch 1/2.. Train Loss 0.108.. 
+Epoch 1/2.. Train Loss 0.109.. 
+Epoch 2/2.. Train Loss 0.105.. 
+Epoch 2/2.. Train Loss 0.096.. 
+Epoch 2/2.. Train Loss 0.091.. 
+Epoch 2/2.. Train Loss 0.095.. 
+Epoch 2/2.. Train Loss 0.087.. 
+Epoch 2/2.. Train Loss 0.082.. 
+Epoch 2/2.. Train Loss 0.078.. 
+Epoch 2/2.. Train Loss 0.072.. 
+Epoch 2/2.. Train Loss 0.069.. 
+Epoch 2/2.. Train Loss 0.077.. 
+Epoch 2/2.. Train Loss 0.069.. 
+Epoch 2/2.. Train Loss 0.074.. 
+Epoch 2/2.. Train Loss 0.065.. 
+Epoch 2/2.. Train Loss 0.069.. 
+Epoch 2/2.. Train Loss 0.068.. 
+Epoch 2/2.. Train Loss 0.067.. 
+Epoch 2/2.. Train Loss 0.065.. 
+Epoch 2/2.. Train Loss 0.060.. 
+Epoch 2/2.. Train Loss 0.065.. 
+Epoch 2/2.. Train Loss 0.068.. 
+Epoch 2/2.. Train Loss 0.061.. 
+Will Validate model
+Test Accuracy: 80.71%
+Test Loss: 1.40%
+Will Save Checkpoint
+Checkpoint saved
